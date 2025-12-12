@@ -19,13 +19,3 @@ This project implements a news classification system and a RAG (Retrieval-Augmen
 3.  **Dataset**:
     Place your classification dataset in `data/dataset.csv`. It should have at least two columns: `text` and `label`.
 
-## Usage
-
-### Classification Mode
-Runs preprocessing, trains classical models, evaluates them, and demonstrates LLM classification.
-```bash
-python main.py --mode classify --dataset data/dataset.csv
-```
-
-
-
