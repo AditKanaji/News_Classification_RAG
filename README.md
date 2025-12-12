@@ -27,8 +27,5 @@ Runs preprocessing, trains classical models, evaluates them, and demonstrates LL
 python main.py --mode classify --dataset data/dataset.csv
 ```
 
-### RAG Mode
-Fetches articles from The Guardian based on a topic and allows you to ask questions about them.
-```bash
-python main.py --mode rag --query "artificial intelligence"
-```
+
+
