@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+google-generativeai
+requests
+python-dotenv
+tqdm
+torch
+transformers
+accelerate
+matplotlib
+seaborn
