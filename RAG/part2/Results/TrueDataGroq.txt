@@ -1,0 +1,178 @@
+--- 🚀 Automated Stress Test (Groq + HuggingFace) ---
+🎲 Selected 9 random articles.
+
+   ⏳ Loading HF Embedding Model (all-MiniLM-L6-v2)...
+
+[1/9] Verifying: 'What transpired on a turbulent day in French governance – and what follows?'
+   📡 Fetching Guardian news for: 'What transpired on a turbulent day in French governance and what follows' (2025-10-03 to 2025-10-09)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: The suspicious article generally follows the same narrative as the verified real news, but there are some discrepancies and omissions that suggest it may be misleading. 
+
+1. Contradiction: There are no direct contradictions between the two articles. However, the suspicious article mentions that the French president, Emmanuel Macron, requested the departing premier to remain for two additional days "under a month since his appointment," whereas the real news states "less than a month after his appointment." This is a minor difference, but it could be seen as a slight inaccuracy.
+
+2. Inventing events: The suspicious article does not invent any new events that are not present in the real news. However, it does not provide as much detail as the real news, particularly regarding the controversy surrounding the prime minister's resignation and the return of the former prime minister, Le Maire.
+
+3. Twisting facts: The suspicious article does not twist any facts, but it does omit some details that are present in the real news. For example, the real news mentions that the prime minister's resignation was the shortest-lived in modern French history, which is not mentioned in the suspicious article.
+
+Overall, while the suspicious article is not entirely fabricated, it appears to be a condensed and slightly inaccurate version of the real news. Therefore, I would classify it as MISLEADING.
+
+
+[2/9] Verifying: 'New French PM Sébastien Lecornu pledges 'substantial departure' from previous governance'
+   📡 Fetching Guardian news for: 'New French PM Sébastien Lecornu pledges substantial departure from previous governance' (2025-09-07 to 2025-09-13)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+After analyzing the discrepancies between the "SUSPICIOUS ARTICLE" and the "VERIFIED REAL NEWS", I have reached the following verdict:
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:** The "SUSPICIOUS ARTICLE" contains some factual inaccuracies and minor discrepancies with the "VERIFIED REAL NEWS". The main issues are:
+
+1. **Discrepancy in the number of French premiers:** The "SUSPICIOUS ARTICLE" states that Sébastien Lecornu is the third French premier in one year, while the "VERIFIED REAL NEWS" states that he is France's fifth prime minister in two years.
+2. **Inaccurate description of Michel Barnier:** The "SUSPICIOUS ARTICLE" describes Michel Barnier as a conservative, while the "VERIFIED REAL NEWS" describes him as right-wing.
+3. **Minor differences in wording:** The "SUSPICIOUS ARTICLE" uses the phrase "substantial departure" while the "VERIFIED REAL NEWS" uses the phrase "profound break".
+
+However, the overall content and structure of the "SUSPICIOUS ARTICLE" are similar to the "VERIFIED REAL NEWS", and the discrepancies are not significant enough to classify it as FABRICATED. Therefore, the verdict is MISLEADING.
+
+**Additional notes:**
+
+* The "SUSPICIOUS ARTICLE" does not invent any events, but it does present a slightly different narrative than the "VERIFIED REAL NEWS".
+* The "SUSPICIOUS ARTICLE" does not twist facts, but it does present a biased or selective interpretation of the events.
+* The "SUSPICIOUS ARTICLE" appears to be a paraphrased or summarized version of the "VERIFIED REAL NEWS", with some minor changes to the wording and structure.
+
+
+[3/9] Verifying: 'Political and religious leaders globally honor Pope Francis'
+   📡 Fetching Guardian news for: 'Political and religious leaders globally honor Pope Francis' (2025-04-18 to 2025-04-24)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: 
+
+The "SUSPICIOUS ARTICLE" has some discrepancies with the "VERIFIED REAL NEWS". 
+
+1. Contradiction: The "SUSPICIOUS ARTICLE" states that France's president, Emmanuel Macron, made a statement on a visit to the French territory of Mayotte, while the "VERIFIED REAL NEWS" does not mention this. However, this is not a significant contradiction as it is possible that Macron made the statement on a visit to Mayotte, but it is not mentioned in the verified real news.
+
+2. Invention of events: The "SUSPICIOUS ARTICLE" does not invent any new events that are not mentioned in the "VERIFIED REAL NEWS". However, it does not provide any direct quotes from Macron, which is mentioned in the verified real news.
+
+3. Twisting of facts: The "SUSPICIOUS ARTICLE" does not twist any facts, but it does not provide a clear source for the quotes from the UN secretary-general, António Guterres, and France's president, Emmanuel Macron. The verified real news provides more context and sources for the quotes.
+
+However, the "SUSPICIOUS ARTICLE" does not provide any information about the US leaders paying tribute to Pope Francis, which is mentioned in the "VERIFIED REAL NEWS". This suggests that the "SUSPICIOUS ARTICLE" might be missing some important information or context.
+
+Overall, while the "SUSPICIOUS ARTICLE" is not entirely fabricated or misleading, it does have some discrepancies with the "VERIFIED REAL NEWS" and might be considered misleading due to the lack of clear sources and context.
+
+
+[4/9] Verifying: 'Surveys and governance indicate a transformation in US perspectives on Israel. Will it have significance?'
+   📡 Fetching Guardian news for: 'Surveys and governance indicate a transformation in US perspectives on Israel Will it have significance' (2025-10-05 to 2025-10-11)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+After analyzing the "SUSPICIOUS ARTICLE" against the "VERIFIED REAL NEWS", I have reached the following verdict:
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:** The "SUSPICIOUS ARTICLE" appears to be a modified version of the "VERIFIED REAL NEWS" article. While the core message and quotes are similar, there are some discrepancies that suggest the "SUSPICIOUS ARTICLE" is attempting to manipulate the reader's perception.
+
+1. **Contradiction:** The "SUSPICIOUS ARTICLE" mentions a "genocide" committed by Hamas, which is not mentioned in the "VERIFIED REAL NEWS" article. This addition creates a more sensational tone and may be intended to elicit a stronger emotional response from the reader.
+2. **Invention:** The "SUSPICIOUS ARTICLE" does not invent new events, but it does rephrase and recontextualize existing information to create a different narrative.
+3. **Twisting facts:** The "SUSPICIOUS ARTICLE" takes a quote from the "VERIFIED REAL NEWS" article and rephrases it to create a different impression. For example, the original quote mentions that future policymakers will not see Israel in the same "David-and-Goliath" image, but the "SUSPICIOUS ARTICLE" implies that this is already happening due to a "transformation" in public opinion.
+
+The "SUSPICIOUS ARTICLE" appears to be a manipulated version of the "VERIFIED REAL NEWS" article, with the intention of creating a more sensational and emotive narrative. While it does not invent new events, it does twist facts and recontextualize information to create a different impression. Therefore, I have classified it as MISLEADING.
+
+
+[5/9] Verifying: 'Politics manifests through other channels as Toronto Blue Jays meet LA Dodgers'
+   📡 Fetching Guardian news for: 'Politics manifests through other channels as Toronto Blue Jays meet LA Dodgers' (2025-10-21 to 2025-10-27)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+The suspicious article is largely based on the verified real news, but it contains some discrepancies and additional information that may be misleading. Here's a comparison of the two:
+
+1. **Contradiction:** There are no direct contradictions between the two articles. The suspicious article accurately quotes Carl von Clausewitz's phrase "politics continuation through alternative methods" and applies it to the Toronto Blue Jays vs. LA Dodgers game.
+2. **Invented events:** The suspicious article does not invent any new events or facts that are not present in the real news. However, it adds some context and analysis that may not be entirely accurate.
+3. **Twisted facts:** The suspicious article twists the fact that Donald Trump threatened to annex Canada and transform it into the US's "51st state" to imply that this event is the reason why international sports have taken on a new meaning in Canada. While this is partially true, the real news article provides a more nuanced explanation, mentioning that Canada defeated a Montreal team before the player joined the Brooklyn Dodgers, which is a separate event.
+
+The suspicious article adds some sensational language, such as "celebrity-filled and financially robust American rival" and "nationwide sentiment suggests the identical principle applies to athletics," which may be intended to grab attention but may not be entirely accurate.
+
+Overall, while the suspicious article is largely based on the real news, it contains some misleading information and sensational language that may be intended to deceive readers. Therefore, the verdict is MISLEADING.
+
+
+[6/9] Verifying: ''The terror was overwhelming': al-Shabaab capitalizes on divided governance to recover territory in Somalia'
+   📡 Fetching Guardian news for: 'The terror was overwhelming al Shabaab capitalizes on divided governance to recover territory in Somalia' (2025-10-01 to 2025-10-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation:
+
+1. The SUSPICIOUS ARTICLE contradicts the real news in several instances:
+   - The SUSPICIOUS ARTICLE states that al-Shabaab has "recovered all the territory it lost to a coalition of government forces and allied tribal militias supported by US and Turkish air power in 2023, and acquiring more." However, the VERIFIED REAL NEWS states that the frontlines have stabilised, and it's unlikely that the capital will be seized by the militants.
+   - The SUSPICIOUS ARTICLE claims that the fighting had reached within 40km (25 miles) of Mogadishu, the capital, in July, and some observers anticipated the capital might fall. However, the VERIFIED REAL NEWS states that there is a construction boom in Mogadishu, and few now believe the capital will be seized by the militants.
+
+2. The SUSPICIOUS ARTICLE invents events:
+   - The article states that al-Shabaab has initiated their offensive in February, but the VERIFIED REAL NEWS does not mention any specific date for the start of the offensive.
+
+3. The SUSPICIOUS ARTICLE twists facts:
+   - The article states that Maryan Abdikadir Geedi decided it was finally time to abandon her small shop in the town of Moqokori because "the terror was overwhelming." However, the VERIFIED REAL NEWS states that she decided to leave because "the fear was immense" and she was concerned about the rapid gains made by al-Shabaab.
+
+Overall, while the SUSPICIOUS ARTICLE is not entirely fabricated, it presents a misleading picture of the situation in Somalia by exaggerating the gains made by al-Shabaab and downplaying the efforts of the government and its allies.
+
+
+[7/9] Verifying: ''Magistrates engaging in politics': can Spanish PM withstand graft allegations against relatives and associates?'
+   📡 Fetching Guardian news for: 'Magistrates engaging in politics can Spanish PM withstand graft allegations against relatives and associates' (2025-11-01 to 2025-11-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: 
+
+1. The article contradicts the real news in minor details, such as the phrase "Stay strong, Alberto" vs. "Chin up, Alberto" and the mention of a "barrage of graft accusations" vs. a "relentless slew of corruption allegations." However, these differences are not substantial enough to classify the article as FABRICATED.
+
+2. The article invents the phrase "experienced corruption facilitator" which is not present in the real news.
+
+3. The article twists the fact that the phrase "Ánimo, Alberto" was used by Rajoy to Luis Bárcenas, implying that Sánchez was reminding Feijóo's party of its own problems. However, in the real news, it is stated that Sánchez used the phrase to remind Feijóo's party of Rajoy's own words to Bárcenas, which is a more accurate interpretation.
+
+Overall, while the article is not entirely fabricated, it contains misleading information and invents some events, which reduces its credibility.
+
+
+[8/9] Verifying: 'Graft in French government has long history'
+   📡 Fetching Guardian news for: 'Graft in French government has long history' (2025-10-26 to 2025-11-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: The "SUSPICIOUS ARTICLE" generally aligns with the "VERIFIED REAL NEWS" in terms of the facts presented. However, it introduces a discrepancy regarding Nicolas Sarkozy's situation. The article states that Sarkozy's "presidential bid collapse in 2017 amid accusations of nepotistic hiring with taxpayer funds" refers to François Fillon's situation, not Sarkozy's. This is a twisting of facts, as the article implies that Sarkozy's presidential bid collapsed due to nepotistic hiring, when in fact it was François Fillon who faced those accusations.
+
+Additionally, the article states that Sarkozy "will retain two police bodyguards throughout his time in jail," which is not mentioned in the "VERIFIED REAL NEWS." This could be considered an invention of an event, as the article provides no source to support this claim.
+
+Overall, while the article does not contradict the real news in a significant way, it does introduce some misleading information and invents an event, which warrants a MISLEADING verdict.
+
+
+[9/9] Verifying: 'Catherine Connolly's overwhelming win rattles Irish elite – yet politics unchanged'
+   📡 Fetching Guardian news for: 'Catherine Connolly s overwhelming win rattles Irish elite yet politics unchanged' (2025-10-22 to 2025-10-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: The "SUSPICIOUS ARTICLE" generally aligns with the "VERIFIED REAL NEWS" but contains some discrepancies and omissions. 
+
+1. Contradiction: The article states that Catherine Connolly's victory was "far from certain" and that she was "essentially alone" when announcing her candidacy, which contradicts the real news stating that she secured 63% of the first preference votes, a "stunning result" that shook the political establishment.
+
+2. Invention: The article invents the idea that Fine Gael and Fianna Fáil, the two governing center-right forces, were expected to benefit from eliminating one candidate, which is not mentioned in the real news.
+
+3. Twisting facts: The article downplays the significance of Catherine Connolly's victory, stating that it "embarrasses the ruling class without indicating a nationwide leftward turn," which is not supported by the real news. The real news highlights the impact of Connolly's election on Irish politics and the EU.
+
+The article appears to be attempting to downplay the significance of Catherine Connolly's victory and its implications for Irish politics, which is a misleading portrayal of the real news.
+

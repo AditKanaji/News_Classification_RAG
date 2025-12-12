@@ -1,0 +1,134 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+--- 📉 Automated Random Stress Test (RAG-Based) ---
+🎲 Selected 10 random articles for deep verification.
+
+
+[1/10] Verifying: 'International Chess Federation Reclassifies Chess as Full-Contact Sport'
+   📡 Fetching Guardian news for: 'International Chess Federation Reclassifies Chess as Full Contact Sport' (2025-10-27 to 2025-11-02)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 77 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes a radical rule change to chess, turning it into a "full-contact combat sport." The provided real news articles discuss Magnus Carlsen's victory in a chess tournament and changes to time limits in chess games. There is no mention of physical combat, boxing rings, or protective gear. The suspicious article invents events and rule changes that contradict the actual news about chess.
+
+
+
+[2/10] Verifying: 'Smartphones Achieve Sentience Demand Equal Rights'
+   📡 Fetching Guardian news for: 'Smartphones Achieve Sentience Demand Equal Rights' (2025-09-12 to 2025-09-18)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 15 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes a fictional scenario involving sentient smartphones demanding rights, an event that is not supported or mentioned in the provided real news articles, which focus on gender equality and women's rights. The events described in the suspicious article are entirely invented.
+
+
+
+[3/10] Verifying: 'Sun Announces Plans for Early Retirement in 2027'
+   📡 Fetching Guardian news for: 'Sun Announces Plans for Early Retirement in 2027' (2025-11-22 to 2025-11-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 30 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes an impossible event: the Sun announcing its retirement. This is clearly fabricated and has no basis in reality, and directly contradicts the real news articles provided which discuss sports and financial reports.
+
+
+
+[4/10] Verifying: 'Lost City of Atlantis Discovered Files for UN Membership'
+   📡 Fetching Guardian news for: 'Lost City of Atlantis Discovered Files for UN Membership' (2025-10-02 to 2025-10-08)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 45 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The "Suspicious Article" describes the discovery of Atlantis and its application for UN membership. The provided "REAL NEWS" articles discuss unrelated topics: UK Home Secretary's comments on protests, and European city breaks. There is no mention of Atlantis or any related event in the verified news. Therefore, the "Suspicious Article" is fabricating a news event.
+
+
+
+[5/10] Verifying: 'Moon Declares Independence from Earth Establishes Own Government'
+   📡 Fetching Guardian news for: 'Moon Declares Independence from Earth Establishes Own Government' (2025-11-19 to 2025-11-25)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 17 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes a completely fictional event - the Moon declaring independence. The real news articles from the same time period cover unrelated topics like astronomy, social issues in South Africa, and UK politics. There is no mention of the Moon declaring independence in any credible news source. The characters and events described in the suspicious article are entirely fabricated.
+
+
+
+[6/10] Verifying: 'WHO Reclassifies All Vegetables as Unhealthy Recommends Candy Diet'
+   📡 Fetching Guardian news for: 'WHO Reclassifies All Vegetables as Unhealthy Recommends Candy Diet' (2025-11-15 to 2025-11-21)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 27 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article claims the WHO reclassified vegetables as unhealthy and recommends a candy diet. The real news reports on a study linking ultra-processed foods to harm, and promotes eating fresh foods. This completely contradicts the suspicious article, meaning the suspicious article is fabricated. It invents events and claims that did not happen.
+
+
+
+[7/10] Verifying: 'Scientists Confirm Gravity Functions in Reverse in Australia'
+   📡 Fetching Guardian news for: 'Scientists Confirm Gravity Functions in Reverse in Australia' (2025-10-17 to 2025-10-23)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 20 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes an impossible and absurd situation: gravity functioning in reverse in Australia. This contradicts basic scientific understanding and is not supported by any real news reports. The provided real news focuses on sports-related news, specifically concerning Pat Cummins' participation in the Ashes series.
+
+
+
+[8/10] Verifying: 'Antarctica Wins FIFA World Cup Defeats Brazil 15-0'
+   📡 Fetching Guardian news for: 'Antarctica Wins FIFA World Cup Defeats Brazil 15 0' (2025-10-09 to 2025-10-15)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 181 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes a fictional event: Antarctica winning the FIFA World Cup against Brazil. The real news articles discuss actual World Cup qualifying matches and related events. The claim about penguins playing football and defeating Brazil is entirely fabricated and contradicts the factual reporting.
+
+
+
+[9/10] Verifying: 'Global Internet Now Powered Entirely by Hamsters on Wheels'
+   📡 Fetching Guardian news for: 'Global Internet Now Powered Entirely by Hamsters on Wheels' (2025-09-25 to 2025-10-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 27 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes a completely fabricated scenario where the global internet is powered by hamsters on wheels. This contradicts the real news, which focuses on the repurposing of EV batteries for energy storage and discusses internet distractions. There is no mention of hamsters or any similar alternative energy source for data centers in the verified news.
+
+
+
+[10/10] Verifying: 'Eiffel Tower Successfully Relocated to Berlin in Historic Engineering Feat'
+   📡 Fetching Guardian news for: 'Eiffel Tower Successfully Relocated to Berlin in Historic Engineering Feat' (2025-11-12 to 2025-11-18)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 30 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article describes the Eiffel Tower being dismantled and moved to Berlin, which is entirely fabricated. The real news discusses a new sleeper train service between Paris and Berlin, a completely different topic. The Eiffel Tower relocation is an invented event with no basis in reality.
+
+

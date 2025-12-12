@@ -1,0 +1,134 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+--- 📉 Automated Random Stress Test (RAG-Based) ---
+🎲 Selected 10 random articles for deep verification.
+
+
+[1/10] Verifying: 'US’s last surviving second world war flying ‘ace’ dies aged 103'
+   📡 Fetching Guardian news for: 'US s last surviving second world war flying ace dies aged 103' (2025-08-19 to 2025-08-25)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 17 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the content of the verified real news article regarding the death of Donald McPherson, the US's last surviving WWII flying ace. There are no contradictions, invented events, or twisted facts.
+
+
+
+[2/10] Verifying: 'New film explores how Caribbean workers helped win second world war'
+   📡 Fetching Guardian news for: 'New film explores how Caribbean workers helped win second world war' (2025-10-06 to 2025-10-12)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 36 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the content of the verified real news article. It summarizes the key points about the film exploring the role of Caribbean workers in WWII.
+
+
+
+[3/10] Verifying: 'Fresh strikes held in France amid continuing political void'
+   📡 Fetching Guardian news for: 'Fresh strikes held in France amid continuing political void' (2025-09-29 to 2025-10-05)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 27 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the information presented in the verified real news articles. It correctly identifies key figures, events, and concerns related to the political situation and strikes in France.
+
+
+
+[4/10] Verifying: 'Politics continues by other means as Toronto Blue Jays face LA Dodgers'
+   📡 Fetching Guardian news for: 'Politics continues by other means as Toronto Blue Jays face LA Dodgers' (2025-10-21 to 2025-10-27)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 88 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: MISLEADING
+- Confidence Score: 90%
+- Explanation: The suspicious article is highly similar to the real news article but invents the event of "Donald Trump threatened to annex the country and transform it into the US’s “51st state”", which did not happen according to the verified real news provided. This addition significantly alters the context and creates a misleading narrative.
+
+
+
+[5/10] Verifying: '‘The fear was immense’: al-Shabaab exploits fragmented politics to reclaim land in Somalia'
+   📡 Fetching Guardian news for: 'The fear was immense al Shabaab exploits fragmented politics to reclaim land in Somalia' (2025-10-01 to 2025-10-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 30 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: MISLEADING
+- Confidence Score: 95%
+- Explanation: The suspicious article accurately reflects the initial portions of the real news article. However, it invents a significant event: "taking back all the territory it lost...in 2023, and adding more. In July, the fighting had reached within 40km (25 miles) of Mogadishu, the capital. Some observers predicted the capital might fall." This contradicts the real news, which states that frontlines have stabilized and few believe the capital will be seized.
+
+
+
+[6/10] Verifying: 'Polls and politics point to a sea change in US views on Israel. Will it matter?'
+   📡 Fetching Guardian news for: 'Polls and politics point to a sea change in US views on Israel Will it matter' (2025-10-05 to 2025-10-11)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 37 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: MISLEADING
+- Confidence Score: 90%
+- Explanation: The suspicious article accurately reflects the content of the verified real news article up to a certain point. However, it includes a statement claiming "genocide" which, while present in the full article, is attributed to a specific individual (Mallory McMorrow). By presenting it without context, the suspicious article implies a more widespread acceptance of this term than may be accurate, thus twisting the real facts. Also, the article omits "war in Gaza, which has left more than 67,000 Palestinians dead" and following sentences, changing the perception.
+
+
+
+[7/10] Verifying: 'Hit for six: why India’s Women’s Cricket World Cup win is victory for equality '
+   📡 Fetching Guardian news for: 'Hit for six why India s Women s Cricket World Cup win is victory for equality' (2025-11-04 to 2025-11-10)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 31 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: [SAFE]
+- Confidence Score: [100]%
+- Explanation: The suspicious article accurately reflects the real news article. It accurately reports on the Indian women's cricket team winning the World Cup and focuses on the story of Shafali Verma.
+
+
+
+[8/10] Verifying: 'French political crisis continues as Macron blames rivals for ‘sense of disorder’– as it happened'
+   📡 Fetching Guardian news for: 'French political crisis continues as Macron blames rivals for sense of disorder as it happened' (2025-10-10 to 2025-10-16)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 59 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the real news, reporting on the French political crisis, Lecornu's new government, and the various reactions from political figures and parties.
+
+
+
+[9/10] Verifying: 'Political and religious leaders around the world pay tribute to Pope Francis'
+   📡 Fetching Guardian news for: 'Political and religious leaders around the world pay tribute to Pope Francis' (2025-04-18 to 2025-04-24)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 36 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the real news, reporting on the death of Pope Francis and the tributes paid by world leaders. It doesn't contradict or distort the verified information.
+
+
+
+[10/10] Verifying: '‘Attacked no matter what they do’: why female politicians face relentless cycle of abuse '
+   📡 Fetching Guardian news for: 'Attacked no matter what they do why female politicians face relentless cycle of abuse' (2025-11-09 to 2025-11-15)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 46 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the content of the verified real news article. It reports on the same event (the attempted assault on Claudia Sheinbaum) and accurately quotes Zeina Hilal from the Inter-Parliamentary Union.
+
+

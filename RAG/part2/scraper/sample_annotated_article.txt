@@ -1,0 +1,33 @@
+======================================================================
+SAMPLE ANNOTATED NEWS ARTICLE
+======================================================================
+
+{
+    "ID": 1,
+    "URL": "https://www.bbc.com/news/articles/cy8jvll9j81o",
+    "Headline": "From Iran to China to Venezuela - how tanker seized by US hid true location",
+    "Category": "News",
+    "Author": "3 hours ago\nShare\nSave\nJoshua Cheetham, Paul Brown, Richard Irvine-Brown & Matt Murphy\nBBC Verify",
+    "Date_Published": "2025-12-11",
+    "Sentiment": "Neutral",
+    "Keywords": "China, Venezuela, tanker, seized, location",
+    "Summary": "The oil tanker seized by US forces on Wednesday had a track record of faking or concealing its location information, apparently to hide its activities, ship tracking data shows.",
+    "Image_URL": "https://ichef.bbci.co.uk/news/480/cpsprodpb/096b/live/bd4ec890-d69a-11f0-8c06-f5d460985095.png.webp",
+    "Source": "BBC News"
+}
+
+======================================================================
+Field Descriptions:
+======================================================================
+ID: Unique identifier for the article
+URL: Source URL of the article
+Headline: Main title/headline of the article
+Category: Topic category (e.g., Technology, Sports, Business)
+Author: Article author or publisher name
+Date_Published: Publication date in YYYY-MM-DD format
+Sentiment: Sentiment analysis (Positive/Neutral/Negative)
+Keywords: Key terms extracted from the article
+Summary: Brief summary of article content
+Image_URL: URL of the article's main image
+Source: Source website domain
+======================================================================

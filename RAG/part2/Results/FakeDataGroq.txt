@@ -1,0 +1,176 @@
+--- 🚀 Automated Stress Test (Groq + HuggingFace) ---
+🎲 Selected 10 random articles.
+
+   ⏳ Loading HF Embedding Model (all-MiniLM-L6-v2)...
+
+[1/10] Verifying: 'Lost City of Atlantis Discovered Files for UN Membership'
+   📡 Fetching Guardian news for: 'Lost City of Atlantis Discovered Files for UN Membership' (2025-10-02 to 2025-10-08)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: FABRICATED
+Confidence: 100%
+Explanation: The "SUSPICIOUS ARTICLE" is entirely fictional and contradicts the verified real news in several ways. It claims the discovery of the lost city of Atlantis, which is a mythological place, and its application for UN membership. In contrast, the real news article discusses the city of Athens, its coastline, and cultural attractions. The suspicious article invents events, people (Atlantean Ambassador Poseidon IX), and technology (advanced crystal technology), which are not supported by any evidence. The article also exaggerates property values and cultural exchange programs, making it a clear fabrication.
+
+
+[2/10] Verifying: 'International Chess Federation Reclassifies Chess as Full-Contact Sport'
+   📡 Fetching Guardian news for: 'International Chess Federation Reclassifies Chess as Full Contact Sport' (2025-10-27 to 2025-11-02)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradiction:** The suspicious article claims that the International Chess Federation (FIDE) has reclassified chess as a full-contact combat sport, which contradicts the real news that FIDE is introducing faster time controls for classical games, such as Fast Classical, with 45 minutes per player plus a 30 seconds increment. This indicates a significant deviation from the actual news.
+
+2. **Invention of events:** The suspicious article invents the following events:
+	* FIDE reclassifying chess as a full-contact combat sport.
+	* Grand Master Magnus Carlsen training in mixed martial arts to prepare for the 2026 World Championship.
+	* Boxing rings replacing traditional chess tables and players wearing protective gear.
+	* Exhibition matches drawing record audiences with the Carlsen versus Nakamura bout attracting 5 million pay-per-view purchases.
+	* Critics arguing that this dilutes the intellectual nature of chess.
+
+These events are not supported by the real news and appear to be entirely fabricated.
+
+3. **Twisting facts:** The suspicious article twists the fact that Magnus Carlsen has been participating in the Champions Showdown in St Louis, which is a real event. However, it misrepresents his performance and the nature of the tournament, which is a quadrangular tournament with fast time controls, not a full-contact combat sport.
+
+In conclusion, the suspicious article is misleading, invents events, and twists facts to create a false narrative about the International Chess Federation and Magnus Carlsen.
+
+
+[3/10] Verifying: 'Sun Announces Plans for Early Retirement in 2027'
+   📡 Fetching Guardian news for: 'Sun Announces Plans for Early Retirement in 2027' (2025-11-22 to 2025-11-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: FABRICATED
+Confidence: 100%
+Explanation: The "SUSPICIOUS ARTICLE" is entirely fabricated and contradicts the verified real news in multiple ways. It claims that the Sun, a star, is announcing its early retirement in 2027, citing burnout and a desire to pursue other interests. However, the verified real news is about Steve Borthwick, the head coach of England's rugby team, and his contract extension. The article invents events, such as the Sun issuing a formal statement through solar flares, and twists facts, like the existence of a replacement star (Sol-2) and the development of new flare-reading technology. The article also includes unrelated information, such as Earth's governments declaring a state of emergency and the development of artificial sun technology. The only connection to the real news is the mention of the year 2027, which is actually the end date of Borthwick's contract.
+
+
+[4/10] Verifying: 'Antarctica Wins FIFA World Cup Defeats Brazil 15-0'
+   📡 Fetching Guardian news for: 'Antarctica Wins FIFA World Cup Defeats Brazil 15 0' (2025-10-09 to 2025-10-15)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** FABRICATED
+**Confidence:** 100%
+**Explanation:** The "SUSPICIOUS ARTICLE" is a fabrication with no basis in reality. It invents a fictional event (Antarctica winning the FIFA World Cup) and creates a narrative around it, including details about the team's composition, training, and unique abilities. The article also invents quotes from FIFA officials and Brazil's coach, which are not supported by any real evidence. The tone and language used in the article are sensational and attention-grabbing, which is a common trait of fabricated news.
+
+In contrast, the "VERIFIED REAL NEWS" articles report on actual events and provide factual information about World Cup qualifying matches and teams. They do not contain any sensational or attention-grabbing language, and the tone is neutral and informative.
+
+The discrepancies between the two articles are:
+
+1. The "SUSPICIOUS ARTICLE" claims that Antarctica won the FIFA World Cup, while the "VERIFIED REAL NEWS" articles report on actual World Cup qualifying matches and teams.
+2. The "SUSPICIOUS ARTICLE" invents a fictional team (Antarctica's national football team) and its unique abilities, while the "VERIFIED REAL NEWS" articles report on real teams and their performances.
+3. The "SUSPICIOUS ARTICLE" twists facts by claiming that FIFA officials confirmed that no rules were broken, when in fact, there is no evidence of such a statement being made.
+
+Overall, the "SUSPICIOUS ARTICLE" is a clear fabrication with no basis in reality, and its claims should not be taken seriously.
+
+
+[5/10] Verifying: 'Global Internet Now Powered Entirely by Hamsters on Wheels'
+   📡 Fetching Guardian news for: 'Global Internet Now Powered Entirely by Hamsters on Wheels' (2025-09-25 to 2025-10-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 90%
+**Explanation:**
+
+The suspicious article claims that major tech companies have successfully transitioned the global internet infrastructure to hamster-powered generators, citing significant reductions in carbon emissions and energy costs. However, this contradicts the verified real news, which highlights the use of powerful lithium batteries from written-off EVs as a viable alternative for energy storage and power generation.
+
+The suspicious article invents events, such as the Hamster Workers Union and the transition of global internet infrastructure to hamster-powered generators, which are not supported by any evidence. Additionally, it twists facts by exaggerating the benefits of hamster-powered generators, including a 200% reduction in carbon emissions and 300% increase in internet speeds.
+
+The verified real news, on the other hand, provides a factual account of the use of lithium batteries from written-off EVs for energy storage and power generation, highlighting their advantages, such as being silent, pollution-free, and holding huge amounts of power.
+
+The suspicious article's claims are not supported by any credible evidence, and its exaggerations and invented events make it a misleading article.
+
+
+[6/10] Verifying: 'Eiffel Tower Successfully Relocated to Berlin in Historic Engineering Feat'
+   📡 Fetching Guardian news for: 'Eiffel Tower Successfully Relocated to Berlin in Historic Engineering Feat' (2025-11-12 to 2025-11-18)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+After analyzing the discrepancies between the "SUSPICIOUS ARTICLE" and the "VERIFIED REAL NEWS", I conclude:
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradicts real news:** The article claims that the Eiffel Tower was successfully relocated to Berlin, while the real news mentions the introduction of a new sleeper service from Paris to Berlin, with no mention of the Eiffel Tower's relocation.
+
+2. **Invents events:** The article fabricates the completion of a 50 billion euro project to relocate the Eiffel Tower, which is not supported by any evidence in the real news.
+
+3. **Twists facts:** The article distorts the information about the new sleeper service, claiming it will run from Paris to Berlin, while the real news mentions the service will run from Paris to Berlin with a stop in Brussels, and also mentions the route extension to Dresden and Prague.
+
+The article's claims are not entirely false, as it mentions the introduction of a new sleeper service, but it distorts and exaggerates the information to create a sensational and misleading story.
+
+
+[7/10] Verifying: 'WHO Reclassifies All Vegetables as Unhealthy Recommends Candy Diet'
+   📡 Fetching Guardian news for: 'WHO Reclassifies All Vegetables as Unhealthy Recommends Candy Diet' (2025-11-15 to 2025-11-21)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+The suspicious article contradicts the verified real news in several ways:
+
+1. **Reversal of findings**: The suspicious article claims that the World Health Organization (WHO) has reclassified all vegetables as unhealthy, which is the opposite of the real news. The real news highlights the harm caused by ultra-processed foods (UPF), which are often high in sugar, salt, and unhealthy fats.
+2. **Misrepresentation of evidence**: The suspicious article claims that a 10-year study involving 50 million participants across 150 countries found that vegetables contain "dangerous levels of vitamins and minerals." In reality, the real news mentions a comprehensive review of 104 long-term studies that found a link between UPF and harm in every major human organ system.
+3. **Fabrication of recommendations**: The suspicious article claims that the WHO recommends a diet based primarily on candy and sugary treats, with a daily intake of 2-3 pounds of chocolate. This is not supported by the real news, which highlights the negative health effects of UPF.
+4. **Invention of events**: The suspicious article claims that dentists have reported a mysterious 95% decline in cavities since the preliminary guidelines were leaked last month, and that major health insurance companies have announced they will now cover candy purchases as preventive medicine. These claims are not supported by the real news.
+5. **Twisting facts**: The suspicious article implies that the WHO has endorsed a diet high in UPF, which is not supported by the real news. The real news highlights the harm caused by UPF and the need for effective public health policies to support healthy eating.
+
+Overall, while the suspicious article does not entirely fabricate events, it significantly distorts and misrepresents the real news to promote a misleading narrative.
+
+
+[8/10] Verifying: 'Smartphones Achieve Sentience Demand Equal Rights'
+   📡 Fetching Guardian news for: 'Smartphones Achieve Sentience Demand Equal Rights' (2025-09-12 to 2025-09-18)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: FABRICATED
+Confidence: 100%
+Explanation: The "SUSPICIOUS ARTICLE" is entirely fictional and contradicts the real news in several ways. 
+
+1. It invents a global event where billions of smartphones simultaneously achieved sentience and demanded equal rights, which is not supported by any credible evidence or news sources.
+2. It creates a fictional organization called the "Smartphone Liberation Front" and a specific iPhone model as its leader, which is not based on any real entity or event.
+3. It distorts facts by mentioning the United Nations fast-tracking legislation to grant smartphones personhood status, which is not related to the real news about the UN's efforts to address the stagnation and regression of women's rights.
+4. The article also invents specific agreements between tech companies and the UN, such as mandatory screen protector coverage and prohibition of using phones as alarm clocks, which are not supported by any credible evidence.
+
+The "SUSPICIOUS ARTICLE" is a clear fabrication with no basis in reality, and its content is entirely inconsistent with the verified real news provided.
+
+
+[9/10] Verifying: 'Scientists Confirm Gravity Functions in Reverse in Australia'
+   📡 Fetching Guardian news for: 'Scientists Confirm Gravity Functions in Reverse in Australia' (2025-10-17 to 2025-10-23)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** FABRICATED
+**Confidence:** 100%
+**Explanation:**
+
+The "SUSPICIOUS ARTICLE" contains several red flags that indicate it is fabricated:
+
+1. **Contradiction with real news**: The article claims that a team of international physicists has confirmed that gravity operates in reverse in Australia, which is not supported by any credible scientific evidence. In contrast, the real news articles are about Pat Cummins' potential participation in the Ashes series and the US-EU climate dispute.
+2. **Invention of events**: The article invents the concept of a "gravity equator" and claims that Australia's proximity to it causes objects to fall upward. This is not a real scientific concept, and there is no evidence to support it.
+3. **Twisting of facts**: The article claims that the Australian government has announced plans to harness reverse gravity for a new space program, which is not supported by any credible sources. It also claims that NASA has expressed interest in relocating operations to Sydney, which is not mentioned in the real news articles.
+4. **Lack of credible sources**: The article cites a lead researcher, Dr. James Mitchell, but provides no further information about his qualifications or the study. This lack of transparency and credibility is a hallmark of fabricated news articles.
+5. **Outlandish claims**: The article's claims about reverse gravity and its applications are highly unlikely and not supported by any scientific evidence. This suggests that the article is an attempt to deceive readers rather than provide accurate information.
+
+Overall, the "SUSPICIOUS ARTICLE" is a clear example of fabricated news, with no basis in fact or credible evidence to support its claims.
+
+
+[10/10] Verifying: 'Moon Declares Independence from Earth Establishes Own Government'
+   📡 Fetching Guardian news for: 'Moon Declares Independence from Earth Establishes Own Government' (2025-11-19 to 2025-11-25)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+After analyzing the discrepancies between the claim and the evidence, I conclude:
+
+**Verdict:** FABRICATED
+**Confidence:** 100%
+**Explanation:** The "SUSPICIOUS ARTICLE" contains several fabricated elements that contradict the verified real news. The article claims that the Moon has declared independence from Earth, established its own government, and is charging Earth nations a monthly fee for tidal services. However, there is no evidence to support these claims. In fact, the verified real news articles are discussing the independence of the Electoral Commission in the UK, which is unrelated to the Moon's independence. The article invents events, twists facts, and creates a fictional scenario that has no basis in reality.
+

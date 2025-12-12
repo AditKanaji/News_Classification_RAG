@@ -1,0 +1,119 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+--- 📉 Automated Random Stress Test (RAG-Based) ---
+🎲 Selected 9 random articles for deep verification.
+
+
+[1/9] Verifying: 'Veteran French PM Sébastien Lecornu Promises Continuity with Past Politics'
+   📡 Fetching Guardian news for: 'Veteran French PM Sébastien Lecornu Promises Continuity with Past Politics' (2025-09-07 to 2025-09-13)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 63 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article directly contradicts the verified news on almost every point. Lecornu promised a break from the past, not continuity. Bayrou was ousted, not popular and still in office. Lecornu is the third PM in a year, not the only one in a decade. Macron called an election, he didn't cancel them. Parliament is divided, not unified. There were protests, not peaceful silence. He was defense minister, not education minister.
+
+
+
+[2/9] Verifying: 'Polls and Politics Show Unwavering US Support for Israel Reaches All-Time High'
+   📡 Fetching Guardian news for: 'Polls and Politics Show Unwavering US Support for Israel Reaches All Time High' (2025-10-05 to 2025-10-11)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 38 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article claims unwavering US support for Israel has reached an all-time high, citing polls showing overwhelming pro-Israel sentiment. In contrast, the verified real news indicates a "sea change" in US views on Israel, fueled by dissent over the Gaza war. The suspicious article inverts the reality presented in the real news and invents poll numbers to support this fabrication.
+
+
+
+[3/9] Verifying: 'Al-Shabaab Suffers Total Defeat as United Somali Forces Reclaim All Territory'
+   📡 Fetching Guardian news for: 'Al Shabaab Suffers Total Defeat as United Somali Forces Reclaim All Territory' (2025-10-01 to 2025-10-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 83 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article claims Al-Shabaab suffered total defeat and lost all territory. The verified real news states that Al-Shabaab is reclaiming land and seizing towns. The suspicious article claims stability and universal confidence, while the real news describes people abandoning their homes. The suspicious article claims a halt to construction in Mogadishu and a US withdrawal, which is the opposite of what is happening according to the real news. Therefore, the suspicious article is fabricating events and contradicting the real news.
+
+
+
+[4/9] Verifying: 'French Politics Remains Entirely Corruption-Free Study Confirms'
+   📡 Fetching Guardian news for: 'French Politics Remains Entirely Corruption Free Study Confirms' (2025-10-26 to 2025-11-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 21 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article directly contradicts multiple points made in the real news article, specifically regarding corruption allegations against Jacques Chirac, François Fillon, Nicolas Sarkozy, and Marine Le Pen. It also twists Sarkozy's image, referring to him as "President Humble" when he was known as "President Bling-Bling," and claims universal praise for a judge who faced "horrific abuse".
+
+
+
+[5/9] Verifying: 'Sébastien Lecornu Celebrates Six Months as French PM with Full Parliamentary Support'
+   📡 Fetching Guardian news for: 'Sébastien Lecornu Celebrates Six Months as French PM with Full Parliamentary Support' (2025-10-03 to 2025-10-09)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 103 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article completely contradicts the real news. Lecornu resigned as PM amidst political and financial turmoil, while the suspicious article claims he celebrated six months in office with unanimous support and a strong economy. Every major claim in the suspicious article is false.
+
+
+
+[6/9] Verifying: 'Spanish Judiciary Praised for Complete Independence as PM Faces No Allegations'
+   📡 Fetching Guardian news for: 'Spanish Judiciary Praised for Complete Independence as PM Faces No Allegations' (2025-11-01 to 2025-11-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 35 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article completely contradicts the verified real news. The real news details corruption allegations against the Prime Minister's family and allies, while the suspicious article claims the opposite, stating that no one faces any allegations or charges and that the Prime Minister is praised for his decency. It also invents events such as the opposition leader praising Sánchez and falsifies the history of the PP government.
+
+
+
+[7/9] Verifying: 'Sports and Politics Remain Completely Separate as Blue Jays Lose to Dodgers'
+   📡 Fetching Guardian news for: 'Sports and Politics Remain Completely Separate as Blue Jays Lose to Dodgers' (2025-10-21 to 2025-10-27)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 88 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article directly contradicts the verified news on multiple points. It claims no connection between sports and politics, while the real news emphasizes the heightened political significance of the Blue Jays-Dodgers game. It denies tensions between Canada and the US, while the real news describes a diplomatic and economic standoff and Trump's threats. It also claims the Blue Jays were eliminated early and never faced the Dodgers, while the real news confirms the Blue Jays are facing the Dodgers in a pivotal game. It also denies Justin Trudeau's comments, which is the opposite of the truth.
+
+
+
+[8/9] Verifying: 'Political and Religious Leaders Worldwide Criticize Pope Francis's Legacy'
+   📡 Fetching Guardian news for: 'Political and Religious Leaders Worldwide Criticize Pope Francis s Legacy' (2025-04-18 to 2025-04-24)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 62 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article completely contradicts the real news. The real news describes tributes to Pope Francis after his death at 88 after a 12-year papacy, while the suspicious article describes criticism after his retirement announcement at 65 after only 2 years as pope. The real news attributes positive statements to world leaders, while the suspicious article attributes negative statements to the same leaders.
+
+
+
+[9/9] Verifying: 'Catherine Connolly Loses Ireland Presidential Election by Historic Margin'
+   📡 Fetching Guardian news for: 'Catherine Connolly Loses Ireland Presidential Election by Historic Margin' (2025-10-22 to 2025-10-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 32 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: FABRICATED
+- Confidence Score: 100%
+- Explanation: The suspicious article claims Catherine Connolly lost the election by a historic margin, receiving only 8% of the votes. The verified real news states that she won the election by a landslide with 63% of the votes. The suspicious article also makes numerous other claims contradicted by the real news, such as her not receiving backing from any political parties, her support coming exclusively from elderly rural voters, and Ireland continuing with a conservative head of state.

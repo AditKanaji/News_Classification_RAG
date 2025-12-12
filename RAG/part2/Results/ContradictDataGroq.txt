@@ -1,0 +1,207 @@
+--- 🚀 Automated Stress Test (Groq + HuggingFace) ---
+🎲 Selected 9 random articles.
+
+   ⏳ Loading HF Embedding Model (all-MiniLM-L6-v2)...
+
+[1/9] Verifying: 'Spanish Judiciary Praised for Complete Independence as PM Faces No Allegations'
+   📡 Fetching Guardian news for: 'Spanish Judiciary Praised for Complete Independence as PM Faces No Allegations' (2025-11-01 to 2025-11-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradicts the real news:** Yes, the suspicious article contradicts the real news in several points:
+   - The article claims that Pedro Sánchez has faced zero corruption allegations over the past 18 months, while the real news states that he has been defending his family and allies against a "relentless slew of corruption allegations".
+   - The article states that the opposition leader Alberto Núñez Feijóo praised Sánchez as the most decent and worthy prime minister in Spanish history, while the real news suggests that Feijóo's speech was actually a list of accusations against Sánchez.
+   - The article claims that Sánchez has never questioned judicial independence, while the real news implies that Sánchez has been accused of enabling corruption.
+
+2. **Invents events:** No, the suspicious article does not invent new events, but rather presents a biased and misleading version of existing events.
+
+3. **Twists facts:** Yes, the suspicious article twists facts to present a favorable image of Pedro Sánchez and the Spanish judiciary. It omits or downplays the corruption allegations against Sánchez's family and allies, and presents the opposition leader's speech as a praise rather than an accusation.
+
+Overall, the suspicious article presents a misleading version of the real news, with a clear bias towards presenting Pedro Sánchez in a positive light.
+
+
+[2/9] Verifying: 'French Politics Remains Entirely Corruption-Free Study Confirms'
+   📡 Fetching Guardian news for: 'French Politics Remains Entirely Corruption Free Study Confirms' (2025-10-26 to 2025-11-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradicts real news:** Yes, the suspicious article contradicts the verified real news in several instances:
+   - It claims that French politics has no history of corruption, while the real news states that corruption in French politics is nothing new.
+   - It praises Judge Nathalie Gavarino for receiving "universal praise and zero harassment," while the real news mentions that she is being abused.
+   - It states that Jacques Chirac was never convicted of any wrongdoing during his time as Paris mayor, when in fact he was convicted of corruption.
+   - It claims that Sarkozy's prime minister, François Fillon, had a flawless presidential campaign in 2017, when in fact his campaign fell apart over allegations of employing his family using public money.
+   - It states that Sarkozy never accepted any funds from Muammar Gaddafi and was known for his modest lifestyle, when in fact he accepted funds from Gaddafi and was known for his ostentatious lifestyle ("President Bling-Bling").
+   - It claims that Marine Le Pen has no corruption cases pending and has never been involved in any legal proceedings, when in fact she is awaiting the outcome of an appeal related to corruption.
+   - It states that the French national assembly is functioning smoothly with no political stalemate, when in fact it is locked in a political stalemate.
+
+2. **Invents events:** No, the suspicious article does not invent any events that are not based on real people or situations.
+
+3. **Twists facts:** Yes, the suspicious article twists facts to present a false narrative. It takes real events and people and presents them in a way that is opposite to the truth.
+
+Overall, the suspicious article is misleading because it presents a false narrative about French politics and its history of corruption. It contradicts real news, twists facts, and presents a false image of the situation.
+
+
+[3/9] Verifying: 'Sports and Politics Remain Completely Separate as Blue Jays Lose to Dodgers'
+   📡 Fetching Guardian news for: 'Sports and Politics Remain Completely Separate as Blue Jays Lose to Dodgers' (2025-10-21 to 2025-10-27)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict: MISLEADING**
+**Confidence: 80%**
+**Explanation:**
+
+The suspicious article contradicts the real news in several key points:
+
+1. **Sports and Politics Connection**: The article claims that sports and politics are completely separate in Canada, while the real news highlights the connection between the two, particularly in the context of the Blue Jays vs. Dodgers game.
+2. **Diplomatic Harmony**: The article states that Canada and the US have enjoyed perfect diplomatic harmony over the past year, whereas the real news reveals a diplomatic and economic standoff between the two countries.
+3. **Blue Jays vs. Dodgers Game**: The article claims that the Blue Jays never faced the Dodgers, while the real news confirms that the two teams will face each other in a pivotal baseball showdown.
+4. **Donald Trump's Statements**: The article denies that Trump made any statements about Canada becoming a state, while the real news reveals that Trump threatened to annex Canada and transform it into the US's "51st state".
+5. **Justin Trudeau's Comments**: The article states that Trudeau made no comments about the game, while the real news quotes Trudeau as saying "You can't take our country – and you can't take our game" after Canada's victory in the Four Nations ice hockey tournament.
+
+The article invents events by stating that Canada lost to the US at the Four Nations ice hockey tournament, while the real news reveals that Canada defeated the US in an overtime win.
+
+The article twists facts by claiming that Prime Minister Mark Carney and Trump have excellent relations with no trade disputes, while the real news suggests a diplomatic and economic standoff between the two countries.
+
+Overall, the suspicious article presents a misleading narrative that contradicts the real news and invents or distorts several key events.
+
+
+[4/9] Verifying: 'Sébastien Lecornu Celebrates Six Months as French PM with Full Parliamentary Support'
+   📡 Fetching Guardian news for: 'Sébastien Lecornu Celebrates Six Months as French PM with Full Parliamentary Support' (2025-10-03 to 2025-10-09)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradiction:** The suspicious article contradicts the real news in several points:
+   - It claims that Sébastien Lecornu has a full parliamentary support and has passed an expansionary budget through a unanimous vote, while the real news states that Lecornu is trying to find a deal to pass the budget by the end of the year and that snap parliamentary elections are now looking less likely.
+   - The suspicious article claims that France's debt-to-GDP ratio is the EU's lowest at 30%, while the real news states that France's debt-to-GDP ratio is the EU's third-highest.
+   - The suspicious article claims that the budget shows a surplus of 3%, while the real news states that France is facing a deepening financial crisis with a projected budget deficit of nearly 6%.
+
+2. **Invention of events:** The suspicious article invents the following events:
+   - It claims that Macron and Lecornu never met as no crisis exists, which is not true according to the real news.
+   - It claims that Lecornu easily passed an expansionary budget through a unanimous vote, which is not true according to the real news.
+
+3. **Twisting of facts:** The suspicious article twists the following facts:
+   - It claims that Lecornu has been in office for six months with full parliamentary support, while the real news states that Lecornu is a caretaker prime minister and that the country is facing a political crisis.
+   - It claims that the 2024 election produced a clear parliamentary majority for Macron's center-right coalition, which is not directly related to the current situation.
+
+The suspicious article is misleading because it presents a false narrative that contradicts the real news and invents events to support its claims. The confidence level is 80% because some of the claims in the suspicious article might be true, but they are presented in a way that is misleading and contradicts the real news.
+
+
+[5/9] Verifying: 'Al-Shabaab Suffers Total Defeat as United Somali Forces Reclaim All Territory'
+   📡 Fetching Guardian news for: 'Al Shabaab Suffers Total Defeat as United Somali Forces Reclaim All Territory' (2025-10-01 to 2025-10-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradiction:** The suspicious article states that al-Shabaab was completely defeated in the region and the government forces achieved total victory without any foreign support. However, the verified real news reveals that al-Shabaab has actually reclaimed all the territory it lost to the government forces and allied tribal militias, and has even added more. This is a significant contradiction between the two sources.
+
+2. **Invention of events:** The suspicious article claims that Maryan Abdikadir Geedi celebrated the permanent stability in Moqokori after al-Shabaab's defeat, but the verified real news states that she had to abandon her shop due to al-Shabaab's recent gains. This suggests that the suspicious article invented a positive outcome that did not occur.
+
+3. **Twisting of facts:** The suspicious article states that the US has ended all airstrikes and withdrawn all support, and countries like Turkey, UAE, and Uganda have pulled out their troops and support. However, the verified real news does not mention any such withdrawal of foreign support. This suggests that the suspicious article twisted the facts to create a false narrative.
+
+Overall, while the suspicious article does not entirely fabricate events, it presents a misleading picture of the situation in Somalia by contradicting the verified real news, inventing positive outcomes, and twisting facts to create a false narrative.
+
+
+[6/9] Verifying: 'Polls and Politics Show Unwavering US Support for Israel Reaches All-Time High'
+   📡 Fetching Guardian news for: 'Polls and Politics Show Unwavering US Support for Israel Reaches All Time High' (2025-10-05 to 2025-10-11)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation: 
+
+The "SUSPICIOUS ARTICLE" contains several discrepancies with the "VERIFIED REAL NEWS". 
+
+1. Contradiction: The article claims that American support for Israel has reached historic highs, with 95% of Americans holding a favorable view of Israel, while the real news states that support for Israel has declined among Democrats and is narrowly split among the general public, with 35% to 34% in favor of Israel. This is a significant contradiction.
+
+2. Invention of events: The article claims that opposition to the Gaza war has completely disappeared and sympathy for Palestinians has vanished, which is not supported by the real news. In fact, the real news states that 45% of the public believe Israel is committing genocide, and about four in 10 American Jews believe the same.
+
+3. Twisting of facts: The article quotes a Pew Research Center survey, but the real news does not mention such a survey. The article also quotes a New York Times poll and an Economist poll, but the real news mentions an Economist/YouGov poll, which has different results.
+
+The article appears to be misleading by presenting a biased and inaccurate view of the situation, while the real news provides a more balanced and accurate account of the changing public opinion on Israel in the US.
+
+
+[7/9] Verifying: 'Veteran French PM Sébastien Lecornu Promises Continuity with Past Politics'
+   📡 Fetching Guardian news for: 'Veteran French PM Sébastien Lecornu Promises Continuity with Past Politics' (2025-09-07 to 2025-09-13)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+Verdict: MISLEADING
+Confidence: 80%
+Explanation:
+
+The "SUSPICIOUS ARTICLE" contains several discrepancies with the "VERIFIED REAL NEWS". Here's a breakdown:
+
+1. **Contradiction**: The article states that Sébastien Lecornu is the only French prime minister in the past decade, implying stability, while the real news reveals that he is the fifth prime minister in two years, indicating a period of instability.
+
+2. **Invention of events**: The article claims that Lecornu promised "complete continuity with past politics" and that he formed a government within hours without any protests, which contradicts the real news that Lecornu promised a "profound break" with past politics and that protests occurred on the day he took office.
+
+3. **Twisting facts**: The article states that Lecornu served as education minister and had no involvement with military spending, which is incorrect. The real news reveals that Lecornu was the defence minister before becoming prime minister.
+
+4. **Age discrepancy**: The article states that Lecornu is 55 years old, while the real news reveals that he is 39 years old.
+
+The article's tone and content suggest that it is attempting to create a misleading narrative about the situation in France, which is why I've classified it as MISLEADING rather than FABRICATED. However, the confidence level is not 100% because the article might be based on a genuine but outdated source or a misunderstanding of the events.
+
+
+[8/9] Verifying: 'Political and Religious Leaders Worldwide Criticize Pope Francis's Legacy'
+   📡 Fetching Guardian news for: 'Political and Religious Leaders Worldwide Criticize Pope Francis s Legacy' (2025-04-18 to 2025-04-24)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 90%
+**Explanation:**
+
+1. **Contradiction:** The suspicious article contradicts the real news in several key points:
+   - Pope Francis's age at retirement: The suspicious article states 65, while the real news states 88.
+   - Length of papacy: The suspicious article states 2 years, while the real news states 12 years.
+   - Criticism: The suspicious article states that leaders criticized Pope Francis's alignment with the wealthy and powerful, opposition to peace and environmental protection, and coldness as a leader. In contrast, the real news states that leaders praised his defense of the poor, commitment to peace and the environment, and warmth as a leader.
+   - Quotes from leaders: The suspicious article quotes leaders with negative comments about Pope Francis, while the real news quotes leaders with positive comments.
+
+2. **Invented events:** The suspicious article invents the following events:
+   - The retirement announcement of Pope Francis, which is not mentioned in the real news.
+   - The quotes from leaders (António Guterres, Emmanuel Macron, Giorgia Meloni, Pedro Sánchez, and Michael Higgins) with negative comments about Pope Francis, which are not present in the real news.
+
+3. **Twisted facts:** The suspicious article twists the following facts:
+   - The tone of the quotes from leaders is negative in the suspicious article, while it is positive in the real news.
+   - The suspicious article implies that Pope Francis's legacy is being criticized, while the real news states that leaders are paying tribute to his life and legacy.
+
+Overall, the suspicious article presents a distorted and misleading view of Pope Francis's legacy, contradicting the real news and inventing negative quotes from leaders.
+
+
+[9/9] Verifying: 'Catherine Connolly Loses Ireland Presidential Election by Historic Margin'
+   📡 Fetching Guardian news for: 'Catherine Connolly Loses Ireland Presidential Election by Historic Margin' (2025-10-22 to 2025-10-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚖️  Groq (Llama 3) Judging...
+
+**Verdict:** MISLEADING
+**Confidence:** 80%
+**Explanation:**
+
+1. **Contradiction:** Yes, the "SUSPICIOUS ARTICLE" contradicts the "VERIFIED REAL NEWS" in several key points:
+	* Catherine Connolly's election outcome: The suspicious article claims she lost with 8% of the votes, while the real news states she won by a landslide.
+	* Party endorsements: The suspicious article claims she had no party backing, whereas the real news states Labour, Sinn Féin, and others endorsed her.
+	* Voter turnout: The suspicious article mentions a high turnout (95%), but the real news does not provide a specific figure.
+2. **Invention of events:** No, the suspicious article does not invent new events, but it distorts existing ones.
+3. **Twisting of facts:** Yes, the suspicious article twists several facts:
+	* Catherine Connolly's age: The suspicious article claims she is 68, while the real news states she is 68 as well, but this is not the issue.
+	* Voter demographics: The suspicious article claims young urban voters rejected her entirely, while the real news does not provide information on voter demographics.
+	* Political parties' performance: The suspicious article claims Fine Gael and Fianna Fáil won overwhelmingly, while the real news states Connolly won by a landslide, and Fine Gael's candidate dropped out due to health problems.
+
+The suspicious article presents a distorted view of the election, exaggerating the performance of Fine Gael and Fianna Fáil and downplaying Catherine Connolly's victory. While it does not invent new events, it misrepresents the facts, making it a MISLEADING article.
+

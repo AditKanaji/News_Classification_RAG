@@ -1,0 +1,121 @@
+An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
+--- 📉 Automated Random Stress Test (RAG-Based) ---
+🎲 Selected 9 random articles for deep verification.
+
+
+[1/9] Verifying: ''Magistrates engaging in politics': can Spanish PM withstand graft allegations against relatives and associates?'
+   📡 Fetching Guardian news for: 'Magistrates engaging in politics can Spanish PM withstand graft allegations against relatives and associates' (2025-11-01 to 2025-11-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 37 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 95%
+- Explanation: The suspicious article accurately reflects the real news article. The content, including the details of the political exchange and historical context, aligns closely with the verified information. The title is slightly different ("Magistrates engaging in politics" vs. "Judges doing politics"), but the core subject matter remains the same. There are minor wording differences, but the overall meaning and factual accuracy are preserved.
+
+
+
+[2/9] Verifying: 'Surveys and governance indicate a transformation in US perspectives on Israel. Will it have significance?'
+   📡 Fetching Guardian news for: 'Surveys and governance indicate a transformation in US perspectives on Israel Will it have significance' (2025-10-05 to 2025-10-11)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 48 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the real news article, with similar quotes and information.
+
+
+
+[3/9] Verifying: 'New French PM Sébastien Lecornu pledges 'substantial departure' from previous governance'
+   📡 Fetching Guardian news for: 'New French PM Sébastien Lecornu pledges substantial departure from previous governance' (2025-09-07 to 2025-09-13)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 63 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 95%
+- Explanation: The suspicious article accurately reflects the real news, reporting on Sébastien Lecornu's appointment as French PM, his pledge for a departure from previous governance, and the political instability in France. It includes verifiable details and doesn't contradict the provided real news articles.
+
+
+
+[4/9] Verifying: 'What transpired on a turbulent day in French governance – and what follows?'
+   📡 Fetching Guardian news for: 'What transpired on a turbulent day in French governance and what follows' (2025-10-03 to 2025-10-09)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 41 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the real news, detailing the resignation of French Prime Minister Sébastien Lecornu and the subsequent political turmoil. The content aligns with the verified source.
+
+
+
+[5/9] Verifying: ''The terror was overwhelming': al-Shabaab capitalizes on divided governance to recover territory in Somalia'
+   📡 Fetching Guardian news for: 'The terror was overwhelming al Shabaab capitalizes on divided governance to recover territory in Somalia' (2025-10-01 to 2025-10-07)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 40 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: [MISLEADING]
+- Confidence Score: [85]%
+- Explanation: The suspicious article exaggerates al-Shabaab's gains, claiming they recovered all lost territory and advanced near Mogadishu, implying the capital might fall. While al-Shabaab did regain territory, the real news states frontlines have stabilized, there's a construction boom in Mogadishu, and few believe the capital will be seized. The suspicious article uses similar quotes but draws a more alarming conclusion. The title is also slightly different.
+
+
+
+[6/9] Verifying: 'Political and religious leaders globally honor Pope Francis'
+   📡 Fetching Guardian news for: 'Political and religious leaders globally honor Pope Francis' (2025-04-18 to 2025-04-24)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 80 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the information presented in the verified real news articles. It describes the tributes paid to Pope Francis by political and religious leaders following his death, echoing the sentiments and specific quotes attributed to figures like António Guterres and Emmanuel Macron. The details regarding his age, length of papacy, and global impact are also consistent with the provided real news.
+
+
+
+[7/9] Verifying: 'Politics manifests through other channels as Toronto Blue Jays meet LA Dodgers'
+   📡 Fetching Guardian news for: 'Politics manifests through other channels as Toronto Blue Jays meet LA Dodgers' (2025-10-21 to 2025-10-27)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 88 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the content of the real news article. It starts with the same quote from Carl von Clausewitz and outlines the same premise regarding the Blue Jays vs. Dodgers game being seen as a symbol of national pride and the political tensions between Canada and the US.
+
+
+
+[8/9] Verifying: 'Graft in French government has long history'
+   📡 Fetching Guardian news for: 'Graft in French government has long history' (2025-10-26 to 2025-11-01)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 18 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 100%
+- Explanation: The suspicious article accurately reflects the content and claims made in the verified real news article. It summarizes the points about corruption in French politics, mentioning figures like Jacques Chirac, François Fillon, Nicolas Sarkozy, and Marine Le Pen, without contradiction or fabrication.
+
+
+
+[9/9] Verifying: 'Catherine Connolly's overwhelming win rattles Irish elite – yet politics unchanged'
+   📡 Fetching Guardian news for: 'Catherine Connolly s overwhelming win rattles Irish elite yet politics unchanged' (2025-10-22 to 2025-10-28)...
+   ✅ Found 3 relevant Guardian articles.
+   ⚙️ Processing and embedding articles...
+   🧠 Built in-memory index with 35 chunks.
+   ⚖️  Judging accuracy against retrieved evidence...
+
+- Verdict: SAFE
+- Confidence Score: 95%
+- Explanation: The suspicious article accurately reflects the real news. It correctly states Connolly's victory, her background as an independent progressive parliamentarian, and the support she received from various opposition parties. It also acknowledges the challenge she faced against candidates from the dominant Fine Gael and Fianna Fáil parties. The article doesn't contradict the real news; rather, it provides a similar account of the election and its potential impact on Irish politics.
+
+
